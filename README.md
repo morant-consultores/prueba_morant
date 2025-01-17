@@ -14,8 +14,8 @@ A continuación se presentan algunas preguntas guía opcionales. **Lo importante
 
 
 ## Limpieza y Preparación de Datos:
-¿Qué pasos seguirías para asegurarte de que los datos están limpios y listos para el análisis?
-Menciona cómo manejarías valores faltantes, datos duplicados o inconsistencias.
+* ¿Qué pasos seguirías para asegurarte de que los datos están limpios y listos para el análisis?
+* Menciona cómo manejarías valores faltantes, datos duplicados o inconsistencias.
 ¿Qué indicadores revisarías para detectar posibles anomalías?
 
 ## Predicción de Retención:
