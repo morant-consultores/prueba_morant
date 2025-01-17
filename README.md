@@ -28,5 +28,5 @@ A continuación se presentan algunas preguntas guía opcionales. **Lo importante
 * Considera factores como el balance trabajo-vida, niveles de satisfacción y oportunidades de desarrollo.
 
 ### NOTA:
-Si prefieres generar un entregable para la analista y otro para tu clienta de tal forma que en uno priorices ciertos elementos del análisis y en el otro entregues todo lo que hiciste. Mejor. 
+Si prefieres generar un entregable para la analista y otro para tu clienta de tal forma que en uno priorices ciertos elementos del análisis y en el otro entregues todo lo que hiciste, mejor.ß
 
