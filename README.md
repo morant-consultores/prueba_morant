@@ -3,7 +3,7 @@ Eres un analista de datos que tiene una cliente con una empresa muy grande que n
 Tu labor es definir las preguntas relevantes que consideras que tu cliente debe exponerle a la junta directiva, generar una entregable listo para mostrarse a manera de exposición **NO MÁS DE 5 LÁMINAS DE CONTENIDO**. Adicionalmente, ella tiene a otra analista como su mano derecha y quiere corroborar que todos los pasos que seguiste son los correctos. Así que, también tienes que entregar un entregable donde el código sea visible, al menos, tienes que compartir tus scripts. 
 Sé tan creativo como quieras, entrega el formato que prefieras (word, pptx, pdf, html, etc.) y sigue tu corazón. 
 
-A continuación se presentan algunas preguntas guía opcionales. **Lo importante es que le ayudes a tu cliente a quedar bien frente a la junta. Tu entregable es el final que se muestra en la junta.**
+A continuación se presentan algunas preguntas guía opcionales. **Lo importante es que le ayudes a tu cliente a quedar bien frente a la junta al demostrar su conocimiento de los puntos más relevantes.**
 
 ## Preguntas guía (No las tienes que responder necesariamente, pero pueden ayudarte a avanzar en tu análisis)
 * ¿Cómo describirías el estado general de los empleados en la empresa según los datos?
