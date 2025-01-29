@@ -19,7 +19,7 @@ Este documento debe contener todo el trabajo realizado, incluyendo:
 * Justificación de cada paso tomado.
 * Código visible y explicaciones claras.
 Su objetivo es que la analista pueda **revisar, entender y replicar el análisis**.
-Puede entregarse en formato PDF, R Markdown, HTML, o cualquier otro que permita una presentación estructurada del código y los resultados.
+Puede entregarse en formato PDF, R Markdown, HTML, o cualquier otro que permita una presentación estructurada del código y los resultados, no hay un límite de extensión.
 
 ## Objetivo general
 Más allá de responder preguntas específicas, lo importante es que tu clienta logre una presentación sólida y convincente ante la junta, mostrando que comprende los puntos más relevantes de la situación de recursos humanos en la empresa.
