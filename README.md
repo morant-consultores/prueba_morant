@@ -5,20 +5,20 @@ Tu labor es definir las preguntas clave que debería abordar en su presentación
 
 ## Entregable para la clienta
 
-Debe ser una presentación concisa, clara y persuasiva.
-Solo debe contener 5 láminas de contenido (puede haber una portada y una de cierre adicionales).
-Es recomendable utilizar técnicas de storytelling, visualizaciones efectivas y una narrativa que ayude a la clienta a destacar frente a la junta.
-No es necesario incluir detalles técnicos ni código, sino centrarte en los hallazgos clave y su interpretación.
+Debe ser una presentación **concisa, clara y persuasiva**.
+Solo debe contener **5 láminas de contenido** (puede haber una portada y una de cierre adicionales).
+Es recomendable utilizar técnicas de **storytelling, visualizaciones efectivas y una narrativa** que ayude a la clienta a destacar frente a la junta.
+No es necesario incluir detalles técnicos ni código, sino centrarte en los **hallazgos clave y su interpretación**.
 Puedes entregarlo en el formato que prefieras: PowerPoint (PPTX), PDF, HTML, etc.
 
-## Entregable para la analista
+## Entregable para la analista asistente
 
 Este documento debe contener todo el trabajo realizado, incluyendo:
-Proceso de limpieza de datos.
-Análisis exploratorio detallado.
-Justificación de cada paso tomado.
-Código visible y explicaciones claras.
-Su objetivo es que la analista pueda revisar, entender y replicar el análisis.
+* Proceso de limpieza de datos.
+* Análisis exploratorio detallado.
+* Justificación de cada paso tomado.
+* Código visible y explicaciones claras.
+Su objetivo es que la analista pueda **revisar, entender y replicar el análisis**.
 Puede entregarse en formato PDF, R Markdown, HTML, o cualquier otro que permita una presentación estructurada del código y los resultados.
 
 ## Objetivo general
